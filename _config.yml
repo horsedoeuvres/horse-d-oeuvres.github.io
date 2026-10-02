@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Horse Sense
-# email: your-email@example.com
+title: Horse d'Oeuvres
+email: horse.d.oeuvres.du.jour@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Horse racing, by the numbers. The premier source for statistical analysis
-  of top-flight competition in Japan, occasionally trespassing into other
-  jurisdictions — as the data permits. 
- 
+  Thoughtful stats and statful thoughts on Thoroughbred racing in Japan.  
+
+domain: horsedoeuvres.github.io
+url: https://horsedoeuvres.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: horsedoeuvre
+# github_username:  jekyll
 
 # Build settings
 theme: minima
